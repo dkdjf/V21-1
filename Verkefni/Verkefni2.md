@@ -24,6 +24,7 @@ Rafrásin á að virka, það á að koma ljós.
 ---
 
 ### Námsmat
-Gefið er í heilu og hálfu
+- Skilaðu á Innu; rafrásarteikningu og ljósmynd af rafrás með ljós á.
+- Gefið er í heilu og hálfu
 
 
