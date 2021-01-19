@@ -1,15 +1,15 @@
 ## Verkefni 2 (15%)
 Búðu til rafrás á veroborði (perfboard) sem inniheldur; led, viðnám, víra og haus (inntak). 
+Rafrásin á að virka, það á að koma ljós.
 <!-- ![Sýnidæmi, mynd]() -->
 
 ### Verkþættir:
-  1. útfærsla á veroborði (2%)
+  1. útfærsla á veroborði; rásir, lega íhluta og rýmisnotkun (2%)
   1. að klippa víra í hæfilega stærðir (1%)
-  1. viðnám og led í veroboard (1%)
-  1. festa hausenda á fjölþættan vír með töng (1%)
-  1. fjölþættur vír í holur í veroboard (1%)
-  1. inntakshaus (header) (3%)
-  1. festa og lóða vír saman með herpihólk (1%)
+  1. lóðun viðnáms. vírar og led í veroboard (2%)
+  1. útbúa fjölþættan vír með male endum (e. dupont connection) með Crimpt töng (1%)
+  1. lóða inntakshausa (female header) (2%)
+  1. festa saman fjölþætta víra með herpihólk (2%)
   1. [tölvuteiknuð rafrás](https://github.com/VESM1VS/V21-1/wiki/Rafr%C3%A1sir#rafr%C3%A1sarteikningar-e-schematics) útfrá lóðaðri rafrás, sjá [https://www.circuit-diagram.org/](https://www.circuit-diagram.org/). (5%)
 
 
