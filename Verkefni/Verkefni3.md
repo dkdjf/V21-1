@@ -38,6 +38,7 @@ Hönnun og útfærsla er frjáls að öðru leyti.
 Veldu eitt af eftirfarandi (hönnun, útskurður og samsetning):
 
 * Geymslukassi fyrir Arduino og breadboard.
+* Nafnspjald.
 * Tannhjól.
 * Annað í samráði við kennara.
 
