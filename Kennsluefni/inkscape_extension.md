@@ -1,4 +1,4 @@
-# Inkscape viðbætur (e. extension)
+# Lasercut Box (viðbót)
 
 - [Uppsetning](#uppsetning)
 - [Notkun á Lasercut Box](#notkun-á-lasercut-box)
