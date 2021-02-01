@@ -3,6 +3,8 @@
 - [Uppsetning](#uppsetning)
 - [Notkun á Lasercut Box](#notkun-á-lasercut-box)
 
+---
+
 ## Uppsetning
 
 Til að búa til kassan utan um Arduino tölvuna og brauðbretti ætlum við að nota viðbót við Inkscape forritið.
@@ -42,6 +44,8 @@ Mismunandi en algeng staðsetning:
 ```
 
 Til að sjá hvar ```extensions``` mappan er má alltaf fara í *Preferences -> System* í Inkscape. Þar er listi yfir allar möppur sem Inkscape notar.
+
+---
 
 ## Notkun á Lasercut Box
 
