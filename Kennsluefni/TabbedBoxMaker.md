@@ -5,7 +5,10 @@
 1. í Inkscape sjá Extensions -> Laser Tools
 
 #### Stillingar í BoxMaker
+* Box dimensions: inside (nota innanmál í mælingum)
 * Maximum/Preferred Tab Width 15
 * Material Thickness: 3.10
 * Kerf: 0.2
-* Nota innanmál
+
+
+
