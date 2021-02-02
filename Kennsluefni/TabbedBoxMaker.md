@@ -4,7 +4,7 @@
 1. Windows: Setja skrár td. í C:\Program Files\Inkscape\share\inkscape\extensions eða þar sem Inkscape er vistað.
 1. í Inkscape sjá Extensions -> Laser Tools
 
-### Stillingar í BoxMaker
+#### Stillingar í BoxMaker
 * Maximum/Preferred Tab Width 15
 * Material Thickness: 3.10
 * Kerf: 0.2
