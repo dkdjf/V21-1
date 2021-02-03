@@ -36,6 +36,6 @@ Búðu til Github wiki síðu sem inniheldur eftirfarandi, skilaðu svo hlekk á
 1. 6% 2D hönnun (frjáls útfærsla) 
 1. 6% Rafeindatækni og samsetning; Arduino, brauðbretti, vírar, buzzer, viðnám, led, hnappar o.s.frv.
 1. 6% Lóðun á veroborð.
-1. 2% Kóðavirkni.
+1. 2% Virkni.
 
 Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hluta til kominn og ekkert ef hann vantar.
