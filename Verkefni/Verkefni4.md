@@ -5,6 +5,7 @@
 Í þessu verkefni ætlar þú að smíða frá grunni, spilið [Simon Says](https://en.wikipedia.org/wiki/Simon_(game)), sjá dæmi um spilun [hér](https://youtu.be/1Yqj76Q4jJ4).
 * Settu Arduino [hugbúnaðinn](https://github.com/VESM1VS/V21-1/blob/master/Kennsluefni/arduino_uppsetning.md) upp á tölvuna þína og settu upp *ToneLibrary* safnið.
 * Gerðu þína eigin 2D hönnun (frjáls útfærsla) með Inkscape.
+* Dæmi um verkáætlun er [hér](https://github.com/VESM1VS/V21-1/blob/main/Verk4_plan.md).
 
 Þegar þú hefur lokið við verkefnið ættir þú að hafa fullbúið spil í höndunum sem er tilbúið að fara í verslanir.
 
