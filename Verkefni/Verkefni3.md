@@ -29,6 +29,8 @@ Eftirfarandi þarf að nota við gerð logo-s:
 * útfærðu lokun.
 * vistaðu hönnunina með svg sniði.
 
+Málsett mynd af Arduino tölvunni er [hér](http://www.krekr.nl/wp-content/uploads/2013/08/Screen-shot-2013-08-28-at-18.14.41.png).
+
 Hönnun og útfærsla er frjáls að öðru leyti.
 
 ---
