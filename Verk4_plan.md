@@ -17,7 +17,7 @@
 ---
 
 ### Tími 2 (4 klst)
-1. Klára 2D Inkscape og senda í prentun svo sé tilbúið í Tíma 3 fyrir samsetningu (spurning hvað Arnór þarf mikinn tíma)
+1. Klára 2D Inkscape og senda í prentun svo sé tilbúið í Tíma 3 fyrir samsetningu 
 1. Búa til veroborð og lóða, gera í skrefum einsog á brauðbretti (testa reglulega).
 
 ---
