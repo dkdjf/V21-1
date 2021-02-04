@@ -8,8 +8,8 @@
 
 1. Setja upp á brauðbretti.
   1. Sækja Arduino IDE og setja inn kóðann.
+  1. tengja buzzer og fá hljóð. Passa að buzzer snúi rétt (tvær týpur til).
   1. tengja eitt led + buzzer útfrá rafrásarteikningu og testa  (hljóð og ljós)
-    - passa að buzzer snúi rétt í annarri buzzer týpunni.
   1. bæta við takka og testa takka.
   1. klára uppsetningu.
 1. Huga að hönnun (hvernig takkar og led eiga að vera) útfrá 2D Inkscape hönnun og veroborð útfærslu.
