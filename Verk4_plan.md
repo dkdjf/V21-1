@@ -13,12 +13,12 @@
   1. bæta við takka og testa takka.
   1. klára uppsetningu.
 1. Huga að hönnun (hvernig takkar og led eiga að vera) útfrá 2D Inkscape hönnun og veroborð útfærslu.
-1. Byrja á 2D Inkscape hönnun, halda áfram heima. (best væri að klára)
+1. Byrja á 2D Inkscape hönnun, klára heima.
 ---
 
 ### Tími 2 (4 klst)
-1. Klára 2D Inkscape og senda í prentun svo sé tilbúið í Tíma 3 fyrir samsetningu 
 1. Búa til veroborð og lóða, gera í skrefum einsog á brauðbretti (testa reglulega).
+1. Fínpússa 2D Inkscape  (ef þess er þörf) og senda í prentun svo sé tilbúið fyrir tíma 3 fyrir samsetningu 
 
 ---
 
