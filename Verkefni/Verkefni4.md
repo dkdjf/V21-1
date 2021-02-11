@@ -17,6 +17,8 @@ Kóðann fyrir verkefnið finnur þú [hér](https://github.com/VESM1VS/V21-1/bl
 
 ![Rafrásarteikning](https://raw.githubusercontent.com/VESM1VS/V21-1/main/Myndir/simon_rafras.png)
 
+![3pinOnOffButton](https://github.com/VESM1VS/V21-1/blob/main/Myndir/3pinrockerledswitch.jpg)
+
 ---
 
 ## Skýrsla
