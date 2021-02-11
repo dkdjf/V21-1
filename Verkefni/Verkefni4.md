@@ -27,7 +27,6 @@ Kóðann fyrir verkefnið finnur þú [hér](https://github.com/VESM1VS/V21-1/bl
 
 ### 3 pin on/off button with led (rocker button)
 
-![Mynd1](https://github.com/VESM1VS/V21-1/blob/main/Myndir/3pinrockerledswitch.jpg)
 ![Mynd2](https://github.com/VESM1VS/V21-1/blob/main/Myndir/3wayToggleSwitch_RockerButton.png)
 
 ---
