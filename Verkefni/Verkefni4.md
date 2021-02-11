@@ -1,5 +1,7 @@
 # Verkefni 4 (20%)
 
+---
+
 ## Simon Says
 
 Í þessu verkefni ætlar þú að smíða frá grunni, spilið [Simon Says](https://en.wikipedia.org/wiki/Simon_(game)), sjá dæmi um spilun [hér](https://youtu.be/1Yqj76Q4jJ4).
@@ -9,13 +11,21 @@
 
 Þegar þú hefur lokið við verkefnið ættir þú að hafa fullbúið spil í höndunum sem er tilbúið að fara í verslanir.
 
+---
+
 ### Kóðinn fyrir verkefni
 
 Kóðann fyrir verkefnið finnur þú [hér](https://github.com/VESM1VS/V21-1/blob/main/Kodi/simon.ino).
 
+---
+
 ### Rafrásarteikning fyrir verkefnið
 
 ![Rafrásarteikning](https://raw.githubusercontent.com/VESM1VS/V21-1/main/Myndir/simon_rafras.png)
+
+---
+
+### 3 pin on/off button with led (rocker button)
 
 ![3pinOnOffButton](https://github.com/VESM1VS/V21-1/blob/main/Myndir/3pinrockerledswitch.jpg)
 
