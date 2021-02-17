@@ -26,52 +26,6 @@ Búðu til í **private** Github Repository vefsíðu (Verkefni 5) í Wiki sem i
 
 ---
 
-## 5.3. Transistorar (1%)
-
-1. Kynntu þér [Transistora](https://www.instructables.com/lesson/Transistors/).
-1. Svaraðu eftirfarandi spurningum:
-    1. Hvað gerir transistor?
-    1. Hver er munurinn á NPN og PNP transistorum?
-
----
-
-## 5.4. DC Motors (2%)
-
-1. Fylgdu [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors) og settu upp á Breadboard:
-2. Svaraðu eftirfarandi spurningum:
-    1. Afhverju þurfum við að nota PWM pinna til að stýra DC mótor?
-    2. Afhverju þurfum við að nota viðnám, transistor og diode með DC mótor?
-    3. Hvernig er stýrimótor (e. servo motor) ólíkur hefðbundnum DC mótor?
-
----
-
-## 5.5. H-Bridge (1%)
-
-1. Lestu þér til um [L293D H-Bridge](https://maker.pro/custom/projects/all-you-need-to-know-about-l293d).
-1. Svaraðu eftirfarandi spurningum:
-    1. Hvað er hægt að gera með L293D?
-    1. Hver er munurinn á L293 or L293D?
-
----
-
-## 5.6. DC motor reversing (2%)
-
-1. Fylgdu [Lesson 15. DC Motor Reversing](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing) og settu upp á Breadboard.
-
-1. Svaraðu eftirfarandi spurningum:
-    1. Útskýrðu virkni eftirfarandi falls:
-
-        ```cpp
-        void setMotor(int speed, boolean reverse) {
-            analogWrite(enablePin, speed);
-            digitalWrite(in1Pin, !reverse);
-            digitalWrite(in2Pin, reverse);
-        }
-        ```
-
-    1. L293D er með tvo +V pinna (8 and 16), útskýrðu þá.
-
-Ítarefni: [Tveir DC mótorar: speed and spinning direction of a DC motor](https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/)
 
 ---
 
@@ -86,8 +40,6 @@ Svaraðu eftirfarandi spurningum:
 
 ---
 
-## 5.8 Control Stepper Motor with L293D Motor Driver IC
-- https://lastminuteengineers.com/stepper-motor-l293d-arduino-tutorial/
 
 ---
 
