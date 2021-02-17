@@ -1,4 +1,4 @@
-Búðu til í **private** Github Repository vefsíðu (Verkefni 5) í Wiki sem inniheldur eftirfarandi ([hér](./Verkefni5_svar_template.md) er sniðmát fyrir svarskjalið):
+Búðu til í nýja síðu á Wiki-num þínum sem inniheldur eftirfarandi:
 
 - Svör við spurningum.
 - Tengla á myndbönd af verklegum verkefnum.
