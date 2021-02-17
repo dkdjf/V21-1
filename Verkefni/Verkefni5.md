@@ -7,7 +7,7 @@ Búðu til í nýja síðu á Wiki-num þínum sem inniheldur eftirfarandi:
 
 ---
 
-## 5.1 Rafþéttar (e. capasitors) (1%)
+## 5.1 Rafþéttar (e. capasitors) (2%)
 
 1. Kynntu þér rafþétta (e. capasitors):
    - [Circuit Playground: C is for Capacitor (myndband, 7 mín.)](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/video)
@@ -16,7 +16,7 @@ Búðu til í nýja síðu á Wiki-num þínum sem inniheldur eftirfarandi:
 
 ---
 
-## 5.2 Servo Motors (2%)
+## 5.2 Servo Motors (5%)
 
 1. Lestu eftirfarandi og fylgdu tutorialnum í [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/),  settu upp á Breadboard:
 2. Svaraðu eftirfarandi spurningum:
@@ -26,7 +26,7 @@ Búðu til í nýja síðu á Wiki-num þínum sem inniheldur eftirfarandi:
 
 ---
 
-## 5.3 Skrefamótorar (e. stepper motors) (1%)
+## 5.3 Skrefamótorar (e. stepper motors) (3%)
 
 Horfðu á þetta [myndband (7 mín.)](https://youtu.be/bkqoKWP4Oy4).
 
@@ -37,7 +37,7 @@ Svaraðu eftirfarandi spurningum:
 
 ---
 
-## 5.4 Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino (gömlu settin og nýju)
+## 5.4 Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino (5%)
 - [Skoðið og setjið upp](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/), notið [AccelStepper útgáfuna](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/#arduino-code-using-accelstepper-library)
 
 
