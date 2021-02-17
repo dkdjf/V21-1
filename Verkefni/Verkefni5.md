@@ -38,7 +38,7 @@ Svaraðu eftirfarandi spurningum:
 ---
 
 ## 5.4 Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino (5%)
-- [Skoðið og setjið upp](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/), notið [AccelStepper útgáfuna](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/#arduino-code-using-accelstepper-library)
+- [Skoðið og setjið upp á breadboard](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/), notið [AccelStepper útgáfuna](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/#arduino-code-using-accelstepper-library)
 
 
 
